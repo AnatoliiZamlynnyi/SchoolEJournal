@@ -1,0 +1,27 @@
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\SchoolCL.dll.config
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\SchoolCL.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\SchoolCL.pdb
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.xml
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csproj.CoreCompileInputs.cache
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.pdb
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.Migrations.CreateDB.resources
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csproj.GenerateResource.cache
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\SchoolCL.dll.config
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\SchoolCL.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\SchoolCL.pdb
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.xml
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.Migrations.CreateDB.resources
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csproj.GenerateResource.cache
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolCL\obj\Debug\SchoolCL.pdb

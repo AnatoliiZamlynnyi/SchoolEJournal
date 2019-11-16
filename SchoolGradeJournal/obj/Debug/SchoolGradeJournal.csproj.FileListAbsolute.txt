@@ -1,0 +1,29 @@
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolGradeJournal.exe.config
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolGradeJournal.exe
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolGradeJournal.pdb
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolCL.dll
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolCL.pdb
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolCL.dll.config
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.Properties.Resources.resources
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csproj.GenerateResource.cache
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csproj.CoreCompileInputs.cache
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.exe
+D:\Documents\GoogleDrive\Training\ADO.NET\008 07092019\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.pdb
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolGradeJournal.exe.config
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolGradeJournal.exe
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolGradeJournal.pdb
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\EntityFramework.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolCL.dll
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolCL.pdb
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\bin\Debug\SchoolCL.dll.config
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csprojAssemblyReference.cache
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.Properties.Resources.resources
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csproj.GenerateResource.cache
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.csproj.CopyComplete
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.exe
+D:\Documents\GoogleDrive\Training\!!WorkingProjects\SchoolEJournal\SchoolGradeJournal\obj\Debug\SchoolGradeJournal.pdb

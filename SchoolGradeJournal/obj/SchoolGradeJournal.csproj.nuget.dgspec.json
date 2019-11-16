@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolGradeJournal\\SchoolGradeJournal.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolCL\\SchoolCL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolCL\\SchoolCL.csproj",
+        "projectName": "SchoolCL",
+        "projectPath": "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolCL\\SchoolCL.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolGradeJournal\\SchoolGradeJournal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolGradeJournal\\SchoolGradeJournal.csproj",
+        "projectName": "SchoolGradeJournal",
+        "projectPath": "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolGradeJournal\\SchoolGradeJournal.csproj",
+        "packagesPath": "C:\\Users\\Anato\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolGradeJournal\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Anato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolCL\\SchoolCL.csproj": {
+                "projectPath": "D:\\Documents\\GoogleDrive\\Training\\ADO.NET\\008 07092019\\SchoolEJournal\\SchoolCL\\SchoolCL.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
